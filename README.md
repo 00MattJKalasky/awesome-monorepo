@@ -154,6 +154,7 @@ English | [简体中文](./README-zh-CN.md)
 
 * [Bazel's migration-tooling](https://github.com/bazelbuild/migration-tooling) repository.
 * [Gazelle](https://github.com/bazelbuild/rules_go#generating-build-files) generates Bazel BUILD files automatically for Go packages.
+* [git-publish-subdir-action](https://github.com/s0/git-publish-subdir-action)  GitHub Action to push a subdirectory as a branch to any git repo.
 * [tomono](https://github.com/unravelin/tomono) imports an existing set of Git repositories into a monorepo.
 * [shopsys/monorepo-tools](https://github.com/shopsys/monorepo-tools) contains a set of tools for building and splitting a monolithic repository.
 * [Fastlane monorepo migration tools](https://github.com/fastlane/monorepo) tools for migrating code and github issues. Specific for fastlane so requires some code changes to use
